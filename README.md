@@ -13,3 +13,10 @@ Feel free to use them with your WindowMaker install. If you want to post
 these on your site for whatever reason, or think you can do better than me and
 make a new theme based on the ones hosted here, all I ask is you link back to 
 this repo in some way and mention me. Enjoy the themes!
+
+## Examples
+
+* cougr1.0
+    ![cougr1.0 example](cougr1.0.themed/example.png)
+* redesign_yourlife
+    ![redesign_yourlife example](redesign_yourlife.themed/example.png)
