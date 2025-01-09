@@ -1,5 +1,6 @@
 # Custom WindowMaker themes
-Here are some WindowMaker themes I made myself using this [tutorial](https://lonelymachines.org/windowmaker-themes/theme-tutorial/).
+Here are some WindowMaker themes I made myself using this great [tutorial](https://lonelymachines.org/windowmaker-themes/theme-tutorial/).
+Check this website out, it has a ton of awesome WindowMaker themes.
 Most wallpapers were taken from [Desktop Imperium](https://web.archive.org/web/20010215034639/http://desktop.chapter3.net/).
 I will try including the fonts I used for each theme, if possible. 
 
@@ -20,3 +21,6 @@ this repo in some way and mention me. Enjoy the themes!
     ![cougr1.0 example](cougr1.0.themed/example.png)
 * redesign_yourlife
     ![redesign_yourlife example](redesign_yourlife.themed/example.png)
+
+## How To Install
+Drop the theme folders in your `~/GNUStep/Library/WindowMaker/Themes/` folder. Ez.
