@@ -1,0 +1,67 @@
+{
+  FTitleColor = "#ffffff";
+  FrameBorderColor = "#000000";
+  SelectCursor = (builtin, cross);
+  QuestionCursor = (builtin, question_arrow);
+  MenuDisabledColor = "#666666";
+  IconTitleBack = "#505a5e";
+  FTitleBack = (hgradient, "#202b2f", "#944ad5");
+  BottomLeftResizeCursor = (builtin, bottom_left_corner);
+  TopLeftResizeCursor = (builtin, top_left_corner);
+  ClipTitleFont = "P052:slant=100:weight=200:width=100:pixelsize=14";
+  IconTitleFont = "P052:slant=0:weight=80:width=100:pixelsize=12";
+  MenuTextBack = (
+    mhgradient,
+    "#8a47c7",
+    "#c677ee",
+    "#24152a",
+    "#913fcc",
+    "#040101",
+    "#c84fff"
+  );
+  LargeDisplayFont = "P052:slant=100:weight=80:width=100:pixelsize=36";
+  ResizeCursor = (bitmap, dot_resize.xbm, dot_resize_mask.xbm);
+  TextCursor = (builtin, xterm);
+  TitleJustify = center;
+  IconTitleColor = "#ffffff";
+  MenuTextColor = "#fef761";
+  IconBack = (mdgradient, "#8a47c7", "#c677ee", "#24152a", "#c84fff");
+  MenuTitleColor = "#ffffff";
+  MenuTitleFont = "P052:slant=100:weight=200:width=100:pixelsize=14";
+  WindowTitleExtendSpace = "-1";
+  NormalCursor = (builtin, left_ptr);
+  ArrowCursor = (builtin, top_left_arrow);
+  MenuTextFont = "P052:slant=100:weight=80:width=100:pixelsize=15";
+  WorkspaceBack = (
+    mdgradient,
+    "#8c47c9",
+    "#c677ee",
+    "#24152a",
+    "#913fcc",
+    "#040101",
+    "#c84fff"
+  );
+  VerticalResizeCursor = (builtin, sb_v_double_arrow);
+  HighlightTextColor = "#8646c1";
+  MenuTitleBack = (dgradient, "#ffbb33", "#000000");
+  ClipTitleColor = "#000000";
+  TopRightResizeCursor = (builtin, top_right_corner);
+  WaitCursor = (bitmap, dot_wait.xbm, dot_wait_mask.xbm);
+  HighlightColor = "#ffbb33";
+  FrameFocusedBorderColor = "#000000";
+  BottomRightResizeCursor = (builtin, bottom_right_corner);
+  WindowTitleFont = "P052:slant=100:weight=80:width=100:pixelsize=16";
+  CClipTitleColor = "#616161";
+  MoveCursor = (bitmap, dot_move.xbm, dot_move_mask.xbm);
+  ResizebarBack = (mhgradient, "#8d48cc", "#8a50a1", "#000000", "#8532a3");
+  MenuStyle = normal;
+  HorizontalResizeCursor = (builtin, sb_h_double_arrow);
+  FrameBorderWidth = 1;
+  PTitleBack = (thgradient, hamradio2.png, 153, "#412355", "#808080");
+  MenuTextExtendSpace = "-1";
+  UTitleColor = "#000000";
+  UTitleBack = (hgradient, "#8f989f", "#512d5b");
+  PTitleColor = "#ffffff";
+  MenuTitleExtendSpace = "-1";
+  FrameSelectedBorderColor = "#ffffff";
+}
