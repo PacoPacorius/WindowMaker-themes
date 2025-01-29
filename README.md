@@ -21,6 +21,8 @@ this repo in some way and mention me. Enjoy the themes!
     ![cougr1.0 example](cougr1.0.themed/example.png)
 * redesign_yourlife
     ![redesign_yourlife example](redesign_yourlife.themed/example.png)
+* carbonform
+    ![carbonform_example](carbonform.themed/example.png)
 
 ## How To Install
 Drop the theme folders in your `~/GNUStep/Library/WindowMaker/Themes/` folder. Ez.
